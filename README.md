@@ -44,3 +44,6 @@
 
 
 ## Диаграмма классов: 
+
+![Image alt](https://github.com/vlktna/Programming_lab6/blob/master/client_uml.png)
+![Image alt](https://github.com/vlktna/Programming_lab6/blob/master/server_uml.png)
